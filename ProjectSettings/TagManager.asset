@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bonus
+  - Enemy
+  - Key
+  - Heart
+  - FallLevel
+  - MovingPlatform
+  - ScoreLabel
+  - RedKey
+  - BlueKey
+  - YellowKey
+  - Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1367158429
+    locked: 0
+  - name: Tilemap
+    uniqueID: 974394051
+    locked: 0
+  - name: Props
+    uniqueID: 3868304961
+    locked: 0
+  - name: Props2
+    uniqueID: 2965115543
+    locked: 0
+  - name: Bonus
+    uniqueID: 359175273
+    locked: 0
+  - name: Platforms
+    uniqueID: 4020242165
+    locked: 0
+  - name: Player & Enemies
+    uniqueID: 161149171
+    locked: 0
+  - name: Foreground
+    uniqueID: 1623448011
+    locked: 0
