@@ -15,6 +15,27 @@ TagManager:
   - BlueKey
   - YellowKey
   - Exit
+  - Lever
+  - SecretDoor
+  - Bullet
+  - Ladder
+  - RotationChangeCrate
+  - SuperJump
+  - MovingBlocker
+  - PushableCreate
+  - FallingBlocker
+  - Armor
+  - AmmoChest
+  - MovingBlockerSide
+  - BossUnderBlocker
+  - BossTempBlocker
+  - BossFloatPltfBlocker
+  - CutSceneLever
+  - Secret
+  - SlimeEnemy
+  - EnemyBullet
+  - ShootinEnemyRange
+  - SuperBonus
   layers:
   - Default
   - TransparentFX
@@ -23,7 +44,7 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
+  - Ladder
   - 
   - 
   - 
@@ -60,12 +81,6 @@ TagManager:
     locked: 0
   - name: Props
     uniqueID: 3868304961
-    locked: 0
-  - name: Props2
-    uniqueID: 2965115543
-    locked: 0
-  - name: Bonus
-    uniqueID: 359175273
     locked: 0
   - name: Platforms
     uniqueID: 4020242165

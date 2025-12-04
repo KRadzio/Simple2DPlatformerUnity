@@ -6,9 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/StudentGames/_193251_193546/Level/Scenes/MainMenu.unity
     guid: 695d022d3f151ce44a55eabbdf09e41c
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/StudentGames/_193251_193546/Level/Scenes/Level1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 23ccbf35426164b48bd52ca2917b4dbc, type: 2}

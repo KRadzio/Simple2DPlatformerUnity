@@ -1,0 +1,7 @@
+Assety z Unity Store
+RPG Essentials Sound Effects - FREE!
+
+Oddzielne pliki:
+	Destruction_Metal_Pole_L_Wave_2_0_0.wav (stockSoundEffect)
+	secret.wav (stockSoundEffect)
+	ammocrate.wav (stockSoundEffect)
